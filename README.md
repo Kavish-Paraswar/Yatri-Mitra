@@ -1,5 +1,5 @@
 # Yatri-Mitra
- Yatri Mitra app is to simplify the travel accommodation process while offering flexibility, personalized recommendations, and useful features to enhance the traveler’s experience.
+ Web App is to simplify the travel accommodation process while offering flexibility, personalized recommendations, and useful features to enhance the traveler’s experience.
 
 It's a web application developed using Streamlit and Python, designed to assist travelers with accommodation booking and dynamic price checking. 
 The app features a chatbot powered by machine learning that can help users find suitable accommodations based on their preferences.
